@@ -276,6 +276,7 @@
   justify-content: center;
   column-gap: 100px;
   padding-left: 121px;
+  position: relative;
 }
 .contact-us h1 {
   color: #182AB2;
